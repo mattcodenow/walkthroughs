@@ -3,7 +3,7 @@ Optional proxy of outgoing request from express through Tor docker image.
 
 ## Install
 ```
-npm
+npm install
 ```
 
 ## Start
